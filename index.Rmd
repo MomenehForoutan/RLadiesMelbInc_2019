@@ -174,7 +174,7 @@ grid.raster(img)
 ```
 
 # Testimonial
-We are very grateful to **Lavinia Gordon** and **Alison Hill**, two of our speakers in 2019, for their lovely testimonials. This has been our great pleasure to have hosted them, and their positive comments about our chapter is a strong motivation for us!
+We are very grateful to **Lavinia Gordon** and **Alison Hill**, two of our speakers in 2019, for their lovely testimonials. This is our great pleasure to have hosted them, and their positive comments about R-Ladies Melb chapter is a strong motivation for all of us!
 
 > _"It was a delight and an honour to have an opportunity to present at an R-Ladies Melb event. R-Ladies Melb work hard to foster a welcoming community that encourages learning via social and collaborative sharing. Their focus is on supporting and promoting underrepresented genders, but they are inclusive in their participation. They are a positive force for good, and I hope that 2020 brings them bigger and better things."_
 >
@@ -195,4 +195,4 @@ Finally, do not forget to follow the R-Ladies Melb Inc if you would like to be u
 * `r icon::fa("youtube",colour = "#88398A")` [YouTube](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow/videos)
 
 # Aknowledgements
-I would like to thank Marie, Goknur, Anna, and Sehrish for their valuable feedback about this document. Also, thanks to Anna's great reports last year, which was helpful to produce this document. Finally, I would like to thank [Ramyar Molania](https://twitter.com/RamyarMolania) for his ongoing support.
+I would like to thank Marie, Goknur, Anna, and Sehrish for their valuable feedback about this document. Also, thanks to Anna for her great reports last year, which were useful to produce this document. Finally, I would like to thank [Ramyar Molania](https://twitter.com/RamyarMolania) for his ongoing support for my R-Ladies activities!
