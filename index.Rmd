@@ -1,7 +1,7 @@
 ---
 title: "R-Ladies Melbourne Inc 2019 highlights"
 author: "Momeneh (Sepideh) Foroutan - 2019 President"
-date: "Feb 2020"
+date: "February 2020"
 output:
   html_document:
     theme: cosmo
@@ -91,11 +91,11 @@ grid.raster(img)
 # More advanced R
 In 2019 we were able to organise 13 events covering workshops, seminars and networkings. Although we organised a workshop to teach the fundamentals of R (by **Goknur Giner** and **Nikki Rubinstein**) and a lunch Zoom event on the basic data visualisation in R (by **Zhuowen (Tobey) Zhang**), this year we focused more on the advanced topics; this was because the majority of our members were interested in advanced R topics, according to our 2019 start-of-the-year survey. Examples of these events were:\n
 
-* RMarkdown and publication-ready documents by **Anna Quaglieri** and **Soroor Hediyeh Zadeh** in Feb
-*	Overview of Reproducible research, documentation, and cloud computing by **Lavinia Gordon** in May
+* RMarkdown and publication-ready documents by **Anna Quaglieri** and **[Soroor Hediyeh Zadeh](https://twitter.com/SoroorHediyeh?s=20)** in Feb
+*	Overview of Reproducible research, documentation, and cloud computing by **[Lavinia Gordon](https://twitter.com/MrsLaviniaG?s=20)** in May
 *	Natural language processing from **Ana Mamatelashvili** in Jun
-*	Package review system and rOpenSci from **Melina Vidoni** in Jul
-*	Reproducibility using Containers in R by **Saras Windecker** in Sep
+*	Package review system and rOpenSci from **[Melina Vidoni](https://twitter.com/melvidoni?s=20)** in Jul
+*	Reproducibility using Containers in R by **[Saras Windecker](https://twitter.com/smwindecker?s=20)** in Sep
 
 ```{r, echo=FALSE, fig.cap="Some of the R-Ladies Melb Inc events",echo=FALSE, fig.align="center", out.width = '90%'}
 img <- readPNG("./photos/Rtalks.png")
@@ -135,7 +135,7 @@ grid.raster(img)
 ```
 
 # STEM Women Changmakers grant
-[Australian Academy of Science](https://twitter.com/Science_Academy?s=20) has made an [online directory](https://www.stemwomen.org.au) of Women who work in STEM in Australia, where women can share their profiles, and anyone can find them according to their experties and experiences. Late in 2019, **Lavinia Gordon** recommended that I should apply for the **STEM Women Changemakers grants** to attend the **["Catalysing Gender Equity"](https://aas.eventsair.com/catalysing-gender-equity/)** event in Adelaide; that was when I opened a women in STEM profile, and applied for the grants. I am very excied to have received one of the STEM Women Changemakers grants that are awarded to 12 women across Asutralia. I am grateful to Lavinia for letting me know about this and to the Australian Academy of Science for selecting me as one of the STEM Women Changmakers!
+[Australian Academy of Science](https://twitter.com/Science_Academy?s=20) has made an [online directory](https://www.stemwomen.org.au) of Women who work in STEM in Australia, where women can share their profiles, and anyone can find them according to their experties and experiences. Late in 2019, Lavinia Gordon recommended that I should apply for the **STEM Women Changemakers grants** to attend the **["Catalysing Gender Equity"](https://aas.eventsair.com/catalysing-gender-equity/)** event in Adelaide; that was when I opened a women in STEM profile, and applied for the grants. I am very excied to have received one of the STEM Women Changemakers grants that are awarded to 12 women across Asutralia. I am grateful to Lavinia for letting me know about this and to the Australian Academy of Science for selecting me as one of the STEM Women Changmakers!
 According to the record of Australian Academy of Science, there are > 2300 women who have joined STEM Women. I strongly encourage all women in STEM to open a profile and share all their contributions, so that their talent and expertise are accessible. 
 ```{r, echo=FALSE, fig.cap="Sepideh Foroutan wins an STEM Women Changemakers grant",echo=FALSE, fig.align="center", fig.asp = 0.35, out.width = '90%', fig.asp = 0.6}
 img <- readPNG("./photos/WomenChangmakers.png")
